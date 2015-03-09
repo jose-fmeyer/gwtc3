@@ -42,13 +42,14 @@
     <licenses>
         <license>
             <name>BSD-2 based</name>
-            <url>https://github.com/gwtc3/gwt-c3/blob/master/LICENSE</url>
+            <url>https://raw.githubusercontent.com/psobiech/gwtc3/master/LICENSE</url>
         </license>
     </licenses>
 
     <modules>
         <module>gwt-c3-api</module>
         <module>gwt-c3-js</module>
+        <module>gwt-c3-sample</module>
     </modules>
 
     <properties>
